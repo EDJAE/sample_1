@@ -76,6 +76,7 @@ ul {
   padding: 10px 18px;
   border-radius: 999px;
   border: 1px solid transparent;
+  font-family: inherit;
   font-weight: 600;
   font-size: 0.95rem;
   cursor: pointer;
@@ -832,7 +833,6 @@ ul {
   .nav-toggle {
     display: flex;
   }
-
 }
 
 @media (max-width: 640px) {
